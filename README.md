@@ -46,7 +46,8 @@ My projects will be added here as I build and deploy them
 ## 📫 Connect With Me
 
 - GitHub: [@Mawna-Web-Developer](https://github.com/Mawna-Web-Developer/)
-
+- Linkedin: [@mawnawebdev](www.linkedin.com/in/mawnawebdev/)
+- Instagram: [@mawnawebdev]([www.linkedin.com/in/mawnawebdev/](https://www.instagram.com/mawnawebdev))
 - - -
 
 > Learning. Building. Improving
